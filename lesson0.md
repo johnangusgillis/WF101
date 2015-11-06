@@ -13,35 +13,34 @@ The following syllabus lays out the intended path for this course. Please feel f
 
 #### Javascript Fundamentals
 - Lesson 0: Introduction
-    - Exercise A: Fitness Tests
+    - Exercise A: Lumberjacks
 - Lesson 1: Variables and Types
     - Exercise B: What Am I?
-    - Exercise C: Lumberjacks and Other Bad Puns
-    - Exercise D: Who Am I?
-    - Exercise E: Who Are You?
+    - Exercise C: Who Am I?
+    - Exercise D: Who Are You?
 - Lesson 2: Operators and Logic
-    - Exercise F: Grade School Math
-    - Exercise G: Common Sense
-    - Exercise H: Puzzler
+    - Exercise E: Grade School Math
+    - Exercise F: Common Sense
+    - Exercise G: Puzzler
 - Lesson 3: Flow Control
-    - Exercise I: Bouncer
-    - Exercise J: Switch...Case
+    - Exercise H: Bouncer
+    - Exercise I: Switch...Case
 - Lesson 4: Loops
-    - Exercise K: Teacher
-    - Exercise L: Make A Game
+    - Exercise J: Teacher
+    - Exercise K: Make A Game
 - Lesson 5: Functions
-    - Exercise M: Functions
-    - Exercise N: Make A Better Game
+    - Exercise L: Functions
+    - Exercise M: Make A Better Game
 
 #### HTML & CSS Fundamentals
 - Lesson 6: Basic HTML
-    - Exercise O: My First Webpage
-    - Exercise P: Inputs
+    - Exercise N: My First Webpage
+    - Exercise O: Inputs
 - Lesson 7: The DOM
-    - Exercise Q: A Taste of Interaction
+    - Exercise P: A Taste of Interaction
 - Lesson 8: Basic CSS
-    - Exercise R: Simple Selectors
-    - Exercise S: Cascading Style
+    - Exercise Q: Simple Selectors
+    - Exercise R: Cascading Style
 
 #### Final Project
 - Lesson 9: Build a Webpage
