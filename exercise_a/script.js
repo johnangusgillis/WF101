@@ -5,7 +5,7 @@
 /////////////////////////////////////
 
 
-// 1. Use our `console.log` tool to print out our name to the console.
+// 1. Use our `console.log` tool to print out your name to the console.
 
 
 // 2. Print the sum of 4 and 5 to the console.
