@@ -42,7 +42,7 @@ company_name = 93;
 
 __Numbers__ are exactly what you think they are. You can do math(s) with them.
 
-Numbers are truthy, expect for 0. 0 is falsey.
+Numbers are truthy, except for 0. 0 is falsey.
 
 ```js
 // This is just a number.
@@ -64,7 +64,7 @@ Strings are truthy, unless it is an empty string `""`, those are falsey.
 
 ```js
 // Strings can contain any characters.
-"Javascript";
+"Java$crip!7";
 
 // This is a string, not a number.
 "24";
