@@ -37,7 +37,7 @@ y++; // 10
 y; // 11
 ```
 
-### Decrement `++`
+### Decrement `--`
 
 The Decrement operator subtracts one from its operand.
 
