@@ -1,4 +1,4 @@
-# Lesson 1: Operators and Logic
+# Lesson 2: Operators and Logic
 
 
 ## Arithmetic Operators
